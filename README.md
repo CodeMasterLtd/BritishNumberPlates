@@ -1,4 +1,4 @@
-# 🚗 British Number Plates - V3.1.0 🚗
+# 🚗 British Number Plates - V3.0.0 🚗
 
 <img src="https://img.gta5-mods.com/q75-w350-h233-cfill/images/british-number-plates/5a5bfc-BritishNumberPlates1.jpg" alt="Car Image"/>
 
@@ -25,6 +25,10 @@ This script enhances the British-style vehicle number plates in Grand Theft Auto
 Get into the game after installation! Once in, walk around and find vehicles, or spawn one yourself using in-game commands or mods. Enjoy the customized number plates on the vehicles you encounter!
 
 ## Changelog
+
+#### V3.1.1 | Bug Fixes
+[Download V3.1.1](https://github.com/CodeMasterLtd/BritishNumberPlates/releases/tag/3.1.1)
+> - **Fixed Bugs:** Resolved an issue where the log file caused the game to crash over time. Additionally, we've added an option to the `.ini` file for users who prefer not to utilize PlateFormats.
 
 #### V3.1.0 | Expanded Features
 [Download V3.1.0](https://github.com/CodeMasterLtd/BritishNumberPlates/releases/tag/3.1.0)
