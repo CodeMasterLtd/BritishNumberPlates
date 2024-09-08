@@ -26,6 +26,11 @@ Get into the game after installation! Once in, walk around and find vehicles, or
 
 ## Changelog
 
+#### V3.1.0 | Expanded Features
+[Download V3.1.0](https://github.com/CodeMasterLtd/BritishNumberPlates/releases/tag/3.1.0)
+> - **Plate Formats:** Introduced a feature that detects the specific plate texture applied to a vehicle, such as "plate01" displaying as "ABC 123" can be configured in `ini`. If the AllowPlateFormats option is true in the `.ini` file, this feature will override all previous format settings. Special thanks to [JdmImport](https://www.gta5-mods.com/scripts/british-number-plates#comment-2293222) for the suggestion.
+> - **Version Checker:** Added a version checker that notifies you when a new update is available for download, ensuring you're always up to date!
+
 #### V3.0.0 | Enhanced Plate Customization & Expanded Features
 [Download V3.0.0](https://github.com/CodeMasterLtd/BritishNumberPlates/releases/tag/3.0.0)
 > - **Train Formats Support:** New plate formats added specifically for trains, expanding customization options to non-standard vehicles like trains.
