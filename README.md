@@ -1,10 +1,10 @@
-# 🚗 British Number Plates - V3.1.1 🚗
+# 🚗 Universal Plate Formatter - V3.1.2 🚗
 
 <img src="https://img.gta5-mods.com/q75-w350-h233-cfill/images/british-number-plates/5a5bfc-BritishNumberPlates1.jpg" alt="Car Image"/>
 
 ## Overview
 
-This script enhances the British-style vehicle number plates in Grand Theft Auto V (GTA V) by providing customization options and intelligent plate generation. It ensures a realistic representation of British traffic environments.
+This script enhances the vehicle number plates in Grand Theft Auto V (GTA V) by providing customization options and intelligent plate generation. It ensures a realistic representation of British traffic environments.
 
 ## Features
 
@@ -18,17 +18,24 @@ This script enhances the British-style vehicle number plates in Grand Theft Auto
 1. Make sure you have [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) & [ScriptHookVDotNet-nightly](https://github.com/scripthookvdotnet/scripthookvdotnet-nightly/releases/latest)
 
 ## Installation
-1. Place the `BritishNumberPlates.dll` file into your GTA V *"scripts"* folder.
-2. Ini file will be created once you load into game, then you can find our ini in `scripts\Code-Master\Configs\BritishNumberPlates.ini`
+1. Place the `UniversalPlateFormatter.dll` & `Newtonsoft.Json.dll` file into your GTA V *"scripts"* folder.
+2. Ini file will be created once you load into game, then you can find our ini in `scripts\Code-Master\Configs\UniversalPlateFormatter.ini`
 
 ## How to Use
 Get into the game after installation! Once in, walk around and find vehicles, or spawn one yourself using in-game commands or mods. Enjoy the customized number plates on the vehicles you encounter!
 
 ## Changelog
 
+#### V3.1.2 | Bug Fixes & Enhancements
+[Download V3.1.2](https://github.com/CodeMasterLtd/UniversalPlateFormatter/releases/tag/3.1.2)
+> - **Bug Fixes:** Corrected an issue where plates would change every second and addressed inaccuracies in certain plate settings.
+> - **Enhanced Logging:** Improved log files for clearer insights into script errors.
+> - **Error System:** Introduced a new error logging system for better tracking and reporting.
+> - **Script Name Update:** Renamed from "British Number Plates" to "Universal Plate Formatter" for broader applicability.
+
 #### V3.1.1 | Bug Fixes
 [Download V3.1.1](https://github.com/CodeMasterLtd/BritishNumberPlates/releases/tag/3.1.1)
-> - **Fixed Bugs:** Resolved an issue where the log file caused the game to crash over time. Additionally, we've added an option to the `.ini` file for users who prefer not to utilize PlateFormats.
+> - **Bug Fixes:** Resolved an issue where the log file caused the game to crash over time. Additionally, we've added an option to the `.ini` file for users who prefer not to utilize PlateFormats.
 
 #### V3.1.0 | Expanded Features
 [Download V3.1.0](https://github.com/CodeMasterLtd/BritishNumberPlates/releases/tag/3.1.0)
