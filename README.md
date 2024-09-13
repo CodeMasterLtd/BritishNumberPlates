@@ -18,7 +18,7 @@ This script enhances the vehicle number plates in Grand Theft Auto V (GTA V) by 
 1. Make sure you have [ScriptHookV](http://www.dev-c.com/gtav/scripthookv/) & [ScriptHookVDotNet-nightly](https://github.com/scripthookvdotnet/scripthookvdotnet-nightly/releases/latest)
 
 ## Installation
-1. Place the `UniversalPlateFormatter.dll` & `Newtonsoft.Json.dll` file into your GTA V *"scripts"* folder.
+1. Place the `UniversalPlateFormatter.dll` file into your GTA V *"scripts"* folder.
 2. Ini file will be created once you load into game, then you can find our ini in `scripts\Code-Master\Configs\UniversalPlateFormatter.ini`
 
 ## How to Use
